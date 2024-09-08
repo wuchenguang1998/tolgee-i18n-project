@@ -64,3 +64,7 @@ pnpm getLocales
 ```shell
 pnpm build
 ```
+
+### 项目搭建的具体步骤
+
+详见笔记： [tolgee+vue-i18n 实现项目国际化](https://wuchenguang1998.github.io/2024/09/07/tolgee-vue-i18n实现项目国际化/)

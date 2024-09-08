@@ -42,7 +42,7 @@ function emptyDirectorySync(dirPath) {
   });
 }
 
-// 解压文件,移动语言包到对应子项目
+// 解压文件,移动语言包到对应目录
 const extractZip = async (fileData, outputDir) => {
   return new Promise((resolve, reject) => {
     fileData.data
